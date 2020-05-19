@@ -1,4 +1,3 @@
-# Doing-math-with-Python
-Using Python to learn mathematics
+# 更新一些经典书籍学习笔记以及代码
 
-[Chapter1-Handling Number](https://nbviewer.jupyter.org/github/qixia1998/Doing-math-with-Python/blob/master/Chapter1-Handling%20Number.ipynb)
+Grokking Algorithms<<算法图解>>中文版
